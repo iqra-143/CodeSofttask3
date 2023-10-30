@@ -1,0 +1,23 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.length{
+    margin-left: 4px;
+}
+.main{
+    background-color:rgb(231, 170, 170) ;
+    color: #fff;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    top: 3px;
+}
+.btn{
+    height: auto;
+    width: 40px;
+}
